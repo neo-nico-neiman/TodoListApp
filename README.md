@@ -1,12 +1,13 @@
 
-<h3>First Project for Harvard CS50's Mobile App Development with React Native</h3>
+## First Project for Harvard CS50's Mobile App Development with React Native
 
 <strong>Visit the completed project here https://niconei.github.io/TodoListApp/ </strong><br/>
+<br/>
 The goal of this project is to practice JavaScript and its paradigms by creating
 a TODO app. This app should be able to add TODOs and track the number of total
 TODOs as well as the number of unchecked TODOs.
 
-## Instructions
+### Instructions
 Inside of [index.html](/index.html), you'll find some starter HTML. You shouldn't
 need to edit this file at all. Open this file on your computer into any browser
 to run the project. Make sure that [script.js](/script.js) and [styles.css](/styles.css)
@@ -28,7 +29,7 @@ new TODOs.
 
 Good luck!
 
-## Challenge! (Not Required)
+### Challenge! (Not Required)
 If you finish early and are up for a challenge, try adding delete functionality.
 This should be in the form of a button within each TODO that removes that TODO
 when clicked. 
